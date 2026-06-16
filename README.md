@@ -2,8 +2,6 @@
 
 This repository contains the data and analysis code for a field experiment studying recycling behavior among households in Columbus, Ohio.
 
-## What This Study Does
-
 The Can Fairy Program is a community recycling initiative in Columbus, Ohio. We randomly assigned 200 participating households into two groups:
 
 - **Norm-based messaging** – messages showing what neighbors in the community are doing
